@@ -17,7 +17,7 @@ async def on_ready():
     print(client.user.id)  # ボットのID
     print(discord.__version__)  # discord.pyのバージョン
     print('------')
-    await client.change_presence(activity=discord.Game(name="殻"))
+    await client.change_presence(activity=discord.Game(name="から"))
 
 
 @client.event
