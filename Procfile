@@ -1,1 +1,0 @@
-discordbot: cd botmain && python membertime.py
