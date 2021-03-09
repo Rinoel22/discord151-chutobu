@@ -1,1 +1,1 @@
-discordbot: cd botmain && python datalist.py
+discordbot: cd botmain && python membertime.py
